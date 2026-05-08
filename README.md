@@ -35,10 +35,5 @@ This project demonstrates basic concepts of Python programming such as functions
 
 ---
 
-## ▶️ How to Run
-
-1. Make sure Python is installed on your system.
-2. Run the file using:
-
-```bash
-python main.py
+##Output 
+![login-system Output](Simple-python-login-system.jpg)
